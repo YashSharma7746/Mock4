@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "username": "Yash",
+      "email": "yash@gmail.com",
+      "password": "123456",
+      "isDoctor": true,
+      "id": 1
+    },
+    {
+      "username": "XYZ",
+      "email": "xyz@gmail.com",
+      "password": "xyz",
+      "isDoctor": false,
+      "id": 2
+    },
+    {
+      "username": "abc",
+      "email": "abc@gmail.com",
+      "password": "abc",
+      "isDoctor": true,
+      "id": 3
+    }
+  ],
+  "appointments": [
+    {
+      "name": "Yash",
+      "img": "https://media.istockphoto.com/id/1189304032/photo/doctor-holding-digital-tablet-at-meeting-room.jpg?s=2048x2048&w=is&k=20&c=XdFDOFBKtbqgBrJj70Y9Wsd0MUmqyhM1HyuQXOPCBS0=",
+      "specialization": "Dermatologist",
+      "experience": "5",
+      "location": "Los Angeles",
+      "date": "2023-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fees": "150",
+      "id": 1
+    },
+    {
+      "name": "Mark Johnson",
+      "img": "https://media.istockphoto.com/id/1189304032/photo/doctor-holding-digital-tablet-at-meeting-room.jpg?s=2048x2048&w=is&k=20&c=XdFDOFBKtbqgBrJj70Y9Wsd0MUmqyhM1HyuQXOPCBS0=",
+      "specialization": "Pediatrician",
+      "experience": 12,
+      "location": "Chicago",
+      "date": "2023-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fees": 100,
+      "id": 2
+    },
+    {
+      "name": "Yash",
+      "img": "https://media.istockphoto.com/id/1189304032/photo/doctor-holding-digital-tablet-at-meeting-room.jpg?s=2048x2048&w=is&k=20&c=XdFDOFBKtbqgBrJj70Y9Wsd0MUmqyhM1HyuQXOPCBS0=",
+      "specialization": "Cardiologist",
+      "experience": "5",
+      "location": "Los Angeles",
+      "date": "2023-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fees": "150",
+      "id": 3
+    },
+    {
+      "name": "Mark Johnson",
+      "img": "https://media.istockphoto.com/id/1189304032/photo/doctor-holding-digital-tablet-at-meeting-room.jpg?s=2048x2048&w=is&k=20&c=XdFDOFBKtbqgBrJj70Y9Wsd0MUmqyhM1HyuQXOPCBS0=",
+      "specialization": "Pediatrician",
+      "experience": 12,
+      "location": "Chicago",
+      "date": "2023-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fees": 100,
+      "id": 4
+    },
+    {
+      "name": "Yash",
+      "img": "https://media.istockphoto.com/id/1189304032/photo/doctor-holding-digital-tablet-at-meeting-room.jpg?s=2048x2048&w=is&k=20&c=XdFDOFBKtbqgBrJj70Y9Wsd0MUmqyhM1HyuQXOPCBS0=",
+      "specialization": "Dermatologist",
+      "experience": "5",
+      "location": "Los Angeles",
+      "date": "2023-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fees": "150",
+      "id": 5
+    },
+    {
+      "name": "Mark Johnson",
+      "img": "https://media.istockphoto.com/id/1189304032/photo/doctor-holding-digital-tablet-at-meeting-room.jpg?s=2048x2048&w=is&k=20&c=XdFDOFBKtbqgBrJj70Y9Wsd0MUmqyhM1HyuQXOPCBS0=",
+      "specialization": "Psychiatrist",
+      "experience": 12,
+      "location": "Chicago",
+      "date": "2023-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fees": 100,
+      "id": 6
+    }
+  ]
+}
